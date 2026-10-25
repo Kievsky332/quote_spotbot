@@ -19,7 +19,7 @@
 
 1. Склонируйте репозиторий:
 ```bash
-git clone https://github.com/Kievsky332/BuSsite.git
+git clone https://github.com/Kievsky332/quote_spotbot.git
 ```
 2. Перейдите в папку проекта:
 ```bash
@@ -51,7 +51,7 @@ pip install -r requirements.txt
 
 ## Поддержка и обратная связь
 
-Если у вас есть идеи, или вы нашли баг, создайте [Issue](https://github.com/Kievsky332/BuSsite/issues/new) в этом репозитории или свяжитесь со мной:
+Если у вас есть идеи, или вы нашли баг, создайте [Issue](https://github.com/Kievsky332/quote_spotbot/issues/new) в этом репозитории или свяжитесь со мной:
 - **Telegram:** [@imyrj](https://t.me/imyrj)
 - **Email:** admin@sorav.ru
 
