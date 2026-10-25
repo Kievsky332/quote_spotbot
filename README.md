@@ -23,7 +23,7 @@ git clone https://github.com/Kievsky332/quote_spotbot.git
 ```
 2. Перейдите в папку проекта:
 ```bash
-cd BuSsite
+cd quote_spotbot
 ```
 
 3. Установите зависимости
